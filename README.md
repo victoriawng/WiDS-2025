@@ -23,12 +23,12 @@ The task is to create a multi-outcome model to predict two separate target varia
 
 1.) clone this repo
 
-2.) download .csv datasets from our google drive
+2.) download the "data" (not DATA) folder from our google drive
 
-3.) put those dataset files into "datasets" directory
+3.) put/download "data" folder into vscode
     a. make sure not to rename any of the dataset files
     
-4.) load up "01-start-here.ipynb" into vscode
+4.) pull up the "02_Our_Version.ipynb" notebook in vscode
 
 5.) in the notebook, run the "import pandas" cell
 
